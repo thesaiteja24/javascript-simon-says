@@ -1,5 +1,5 @@
 # javascript-simon-says
-Here is a simple Simon Says Game useing HTML, CSS and Javascrip
+Here is a simple Simon Says Game useing HTML, CSS and Javascript
 ### You can Checkout here! https://sai-teja-web-dev-projects.on.drv.tw/www.saiteja.dev/
 
 ### Have a sneak peek 🫣
